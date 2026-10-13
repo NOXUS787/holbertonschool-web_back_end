@@ -4,7 +4,7 @@ Deletion-resilient hypermedia pagination
 """
 
 import csv
-from typing import Dict, List, Optional
+from typing import Dict, List
 
 
 class Server:
@@ -38,8 +38,7 @@ class Server:
             }
         return self.__indexed_dataset
 
-    def get_hyper_index(self, index: Optional[int] = None,
-                        page_size: int = 10) -> Dict:
+    def get_hyper_index(self, index: int = None, page_size: int = 10) -> Dict:
         """Return a deletion-resilient page of the dataset with indexes.
 
         Starting at the given index (0 when None), rows deleted from the
