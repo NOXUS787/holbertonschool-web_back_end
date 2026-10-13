@@ -13,3 +13,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `2-arrow.js` | Rewrites `addNeighborhood` as an arrow function that uses the lexical `this`. |
 | `3-default-parameter.js` | Uses default parameter values instead of manual `undefined` checks. |
 | `4-rest-parameter.js` | Uses the rest parameter syntax to count the arguments passed to a function. |
+| `5-spread-operator.js` | Uses spread syntax to concatenate two arrays and the characters of a string. |
