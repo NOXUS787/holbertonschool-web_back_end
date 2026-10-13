@@ -18,3 +18,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `7-getBudgetObject.js` | Builds an object with the property value shorthand syntax. |
 | `8-getBudgetCurrentYear.js` | Builds the budget object with ES6 computed property names. |
 | `9-getFullBudget.js` | Defines the budget methods with the ES6 method property shorthand. |
+| `10-loops.js` | Rewrites a `for...in` loop with `for...of` and `const`. |
