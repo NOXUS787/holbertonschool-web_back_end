@@ -10,3 +10,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | --- | --- |
 | `0-constants.js` | Uses `const` in `taskFirst` and `let` in `taskNext`. |
 | `1-block-scoped.js` | Block-scoped `const` so the conditional block does not overwrite the outer variables. |
+| `2-arrow.js` | Rewrites `addNeighborhood` as an arrow function that uses the lexical `this`. |
