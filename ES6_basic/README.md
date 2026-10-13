@@ -16,3 +16,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `5-spread-operator.js` | Uses spread syntax to concatenate two arrays and the characters of a string. |
 | `6-string-interpolation.js` | Builds a description with a template literal instead of string concatenation. |
 | `7-getBudgetObject.js` | Builds an object with the property value shorthand syntax. |
+| `8-getBudgetCurrentYear.js` | Builds the budget object with ES6 computed property names. |
