@@ -17,3 +17,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `6-string-interpolation.js` | Builds a description with a template literal instead of string concatenation. |
 | `7-getBudgetObject.js` | Builds an object with the property value shorthand syntax. |
 | `8-getBudgetCurrentYear.js` | Builds the budget object with ES6 computed property names. |
+| `9-getFullBudget.js` | Defines the budget methods with the ES6 method property shorthand. |
