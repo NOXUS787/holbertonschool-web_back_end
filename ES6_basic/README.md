@@ -9,3 +9,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | File | Description |
 | --- | --- |
 | `0-constants.js` | Uses `const` in `taskFirst` and `let` in `taskNext`. |
+| `1-block-scoped.js` | Block-scoped `const` so the conditional block does not overwrite the outer variables. |
