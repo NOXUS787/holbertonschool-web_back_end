@@ -15,3 +15,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `4-rest-parameter.js` | Uses the rest parameter syntax to count the arguments passed to a function. |
 | `5-spread-operator.js` | Uses spread syntax to concatenate two arrays and the characters of a string. |
 | `6-string-interpolation.js` | Builds a description with a template literal instead of string concatenation. |
+| `7-getBudgetObject.js` | Builds an object with the property value shorthand syntax. |
