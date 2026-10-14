@@ -13,3 +13,4 @@ Jest for tests and ESLint (Airbnb rules) for linting.
 | `2-hbtn_course.js` | `HolbertonCourse` class with type-checked getters and setters. |
 | `3-currency.js` | `Currency` class with getters, setters and `displayFullCurrency`. |
 | `4-pricing.js` | `Pricing` class with getters, setters, `displayFullPrice` and static `convertPrice`. |
+| `5-building.js` | Abstract-style `Building` class that requires subclasses to define `evacuationWarningMessage`. |
