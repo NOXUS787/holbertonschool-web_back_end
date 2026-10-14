@@ -9,3 +9,4 @@ Jest for tests and ESLint (Airbnb rules) for linting.
 | File | Description |
 | --- | --- |
 | `0-classroom.js` | `ClassRoom` class that stores `maxStudentsSize` in `_maxStudentsSize`. |
+| `1-make_classrooms.js` | `initializeRooms` returns three `ClassRoom` objects of sizes 19, 20 and 34. |
