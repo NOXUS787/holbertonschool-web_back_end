@@ -14,3 +14,4 @@ Jest for tests and ESLint (Airbnb rules) for linting.
 | `3-currency.js` | `Currency` class with getters, setters and `displayFullCurrency`. |
 | `4-pricing.js` | `Pricing` class with getters, setters, `displayFullPrice` and static `convertPrice`. |
 | `5-building.js` | Abstract-style `Building` class that requires subclasses to define `evacuationWarningMessage`. |
+| `6-sky_high.js` | `SkyHighBuilding` extends `Building` and overrides `evacuationWarningMessage`. |
