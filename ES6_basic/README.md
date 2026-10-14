@@ -20,3 +20,4 @@ object creation and iterators, with Jest tests and ESLint (Airbnb rules).
 | `9-getFullBudget.js` | Defines the budget methods with the ES6 method property shorthand. |
 | `10-loops.js` | Rewrites a `for...in` loop with `for...of` and `const`. |
 | `10-loops.js` | Rewrites a `for...in` loop with `for...of` and `const`. |
+| `11-createEmployeesObject.js` | Returns an object keyed by a computed department name that holds the employees. |
