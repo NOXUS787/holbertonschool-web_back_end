@@ -10,3 +10,4 @@ them. It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | --- | --- |
 | `0-promise.js` | `getResponseFromAPI` returns a Promise. |
 | `1-promise.js` | `getFullResponseFromAPI` resolves with a success object or rejects with an error. |
+| `2-then.js` | `handleResponseFromAPI` handles a promise with `then`, `catch` and `finally`. |
