@@ -15,3 +15,4 @@ and the environment, and building small HTTP servers with Node and Express.
 | `3-read_file_async.js` | `countStudents` reads the CSV file asynchronously and returns a Promise. |
 | `4-http.js` | Small HTTP server on port 1245 that answers `Hello Holberton School!` on any endpoint. |
 | `6-http_express.js` | Small Express server on port 1245 that answers `Hello Holberton School!` on `/`. |
+| `7-http_express.js` | Express server with `/` and `/students` routes; the student list comes from the CSV file given as argument. |
