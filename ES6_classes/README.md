@@ -17,3 +17,4 @@ Jest for tests and ESLint (Airbnb rules) for linting.
 | `6-sky_high.js` | `SkyHighBuilding` extends `Building` and overrides `evacuationWarningMessage`. |
 | `7-airport.js` | `Airport` class whose default string description is its code, using `Symbol.toStringTag`. |
 | `8-hbtn_class.js` | `HolbertonClass` that casts to its size as a Number and its location as a String, using `Symbol.toPrimitive`. |
+| `9-hoisting.js` | Fixes a hoisting bug by declaring classes before they are used, plus other bugs. |
