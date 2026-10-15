@@ -15,3 +15,4 @@ It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | `4-update_grade_by_city.js` | `updateStudentGradeByCity` returns the students of a city with their new grade, using `filter` and `map`. |
 | `5-typed_arrays.js` | `createInt8TypedArray` returns a `DataView` over a new buffer with an `Int8` value at a position. |
 | `5-typed_arrays.js` | `createInt8TypedArray` returns a `DataView` over a new buffer with an `Int8` value at a position. |
+| `6-set.js` | `setFromArray` returns a `Set` built from an array. |
