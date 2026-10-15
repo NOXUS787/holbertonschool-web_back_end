@@ -13,3 +13,4 @@ them. It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | `2-then.js` | `handleResponseFromAPI` handles a promise with `then`, `catch` and `finally`. |
 | `3-all.js` | `handleProfileSignup` resolves `uploadPhoto` and `createUser` together with `Promise.all`. |
 | `4-user-promise.js` | `signUpUser` returns a resolved promise with the user object. |
+| `5-photo-reject.js` | `uploadPhoto` returns a promise rejected with an error naming the file. |
