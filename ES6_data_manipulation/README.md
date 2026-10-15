@@ -1,0 +1,11 @@
+# ES6 Data Manipulation
+
+This project covers working with data in ES6: `map`, `filter` and `reduce`
+on arrays, typed arrays, and the `Set`, `Map` and `WeakMap` data structures.
+It uses Jest for tests and ESLint (Airbnb rules) for linting.
+
+## Files
+
+| File | Description |
+| --- | --- |
+| `0-get_list_students.js` | `getListStudents` returns an array of student objects. |
