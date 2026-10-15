@@ -16,3 +16,4 @@ them. It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | `5-photo-reject.js` | `uploadPhoto` returns a promise rejected with an error naming the file. |
 | `6-final-user.js` | `handleProfileSignup` waits for all promises to settle and returns each status and value. |
 | `7-load_balancer.js` | `loadBalancer` returns the value of whichever promise settles first, using `Promise.race`. |
+| `8-try.js` | `divideFunction` divides two numbers and throws an error when dividing by 0. |
