@@ -16,3 +16,4 @@ It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | `5-typed_arrays.js` | `createInt8TypedArray` returns a `DataView` over a new buffer with an `Int8` value at a position. |
 | `5-typed_arrays.js` | `createInt8TypedArray` returns a `DataView` over a new buffer with an `Int8` value at a position. |
 | `6-set.js` | `setFromArray` returns a `Set` built from an array. |
+| `7-has_array_values.js` | `hasValuesFromArray` tells whether all elements of an array exist in a `Set`. |
