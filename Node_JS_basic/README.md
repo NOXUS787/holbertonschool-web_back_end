@@ -10,3 +10,4 @@ and the environment, and building small HTTP servers with Node and Express.
 | --- | --- |
 | `database.csv` | Sample list of students used by later tasks. |
 | `0-console.js` | `displayMessage` prints a string to STDOUT. |
+| `1-stdin.js` | Reads a name from STDIN, greets the user and prints a closing message at the end. |
