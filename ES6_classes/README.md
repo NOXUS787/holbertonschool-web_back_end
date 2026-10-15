@@ -15,3 +15,4 @@ Jest for tests and ESLint (Airbnb rules) for linting.
 | `4-pricing.js` | `Pricing` class with getters, setters, `displayFullPrice` and static `convertPrice`. |
 | `5-building.js` | Abstract-style `Building` class that requires subclasses to define `evacuationWarningMessage`. |
 | `6-sky_high.js` | `SkyHighBuilding` extends `Building` and overrides `evacuationWarningMessage`. |
+| `7-airport.js` | `Airport` class whose default string description is its code, using `Symbol.toStringTag`. |
