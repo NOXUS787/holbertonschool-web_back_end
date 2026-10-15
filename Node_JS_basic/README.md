@@ -13,3 +13,4 @@ and the environment, and building small HTTP servers with Node and Express.
 | `1-stdin.js` | Reads a name from STDIN, greets the user and prints a closing message at the end. |
 | `2-read_file.js` | `countStudents` reads the CSV file synchronously and logs the students per field. |
 | `3-read_file_async.js` | `countStudents` reads the CSV file asynchronously and returns a Promise. |
+| `4-http.js` | Small HTTP server on port 1245 that answers `Hello Holberton School!` on any endpoint. |
