@@ -19,3 +19,4 @@ It uses Jest for tests and ESLint (Airbnb rules) for linting.
 | `7-has_array_values.js` | `hasValuesFromArray` tells whether all elements of an array exist in a `Set`. |
 | `8-clean_set.js` | `cleanSet` joins the set values that start with a string, keeping only the rest of each value. |
 | `9-groceries_list.js` | `groceriesList` returns a `Map` of grocery names and quantities. |
+| `10-update_uniq_items.js` | `updateUniqueItems` sets the quantity of items at 1 to 100 in a `Map`. |
