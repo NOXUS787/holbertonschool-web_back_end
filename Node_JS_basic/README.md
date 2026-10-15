@@ -12,3 +12,4 @@ and the environment, and building small HTTP servers with Node and Express.
 | `0-console.js` | `displayMessage` prints a string to STDOUT. |
 | `1-stdin.js` | Reads a name from STDIN, greets the user and prints a closing message at the end. |
 | `2-read_file.js` | `countStudents` reads the CSV file synchronously and logs the students per field. |
+| `3-read_file_async.js` | `countStudents` reads the CSV file asynchronously and returns a Promise. |
